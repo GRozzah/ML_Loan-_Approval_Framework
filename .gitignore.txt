@@ -1,0 +1,14 @@
+# Ignore data and models
+loan_approval_data/
+model_files/
+Trained_models/
+.ipynb_checkpoints/
+__pycache__/
+
+# Jupyter Notebook metadata
+*.ipynb_checkpoints
+
+# OS and editor-specific
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,9 @@
+loan_approval_data/
+model_files/
+Trained_models/
+.ipynb_checkpoints/
+__pycache__/
+*.ipynb_checkpoints
+.DS_Store
+Thumbs.db
+.vscode/
